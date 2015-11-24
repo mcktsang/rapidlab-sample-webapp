@@ -27,7 +27,7 @@
             <port>29999</port>
             <username>admin</username>
             <password>w0nderfu!</password>
-            <name>rapidlab-sample-webapp</name>
+            <name>rapidlab-sample-webapp.war</name>
             <filename>rapidlab-sample-webapp.war</filename>
             <skip>${skipDeployment}</skip>
         </configuration>
