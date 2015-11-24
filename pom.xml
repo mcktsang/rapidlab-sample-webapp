@@ -24,7 +24,7 @@
         <version>7.1.1.Final</version>
         <configuration>
             <hostname>localhost</hostname>
-            <port>29990</port>
+            <port>29999</port>
             <username>admin</username>
             <password>w0nderfu!</password>
             <name>rapidlab-sample-webapp</name>
